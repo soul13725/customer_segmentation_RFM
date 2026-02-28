@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+rfm_synthetic_dataset_20000_rows.csv
+synthetic_online_retail.csv
+OnlineRetail.csv
+OnlineRetail_Large.xlsx
+customer_segmentation_rfm_updated.py
+customer_segmentation_rfm.py
+orignal_code.py
+updated_code.py
+garbage_values_handler_code.py
+rfm_customer_intelligence.py
+Customer_Segmentation_RFM_updated.ipynb
